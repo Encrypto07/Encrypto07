@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=encrypto07" alt="encrypto07" /></a> </p>
 
-- 🔭 I’m currently working on my project **Facial Emotion Detection**
+- 🔭 I’m currently working on my project **Blockchain**
 
-- 🌱 I’m currently learning **Mobile App Development**
+- 🌱 I’m currently learning **GRPC**
 
-- 👯 I’m looking to collaborate on **Python development**
+- 👯 I’m looking to collaborate on **GoLang Development**
 
-- 🤝 I’m looking for help with **Mobile App development**
-
-- 💬 Ask me about **Python Development**
+- 💬 Ask me about **GoLang Development**
 
 - 📫 How to reach me **Sultan8512@gmail.com**
 
